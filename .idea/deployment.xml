@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="dongzx@10.7.39.225:22 password" remoteFilesAllowedToDisappearOnAutoupload="false" autoUploadExternalChanges="true" showEqualInSync="true">
+    <serverData>
+      <paths name="dongzx">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/MSDHGCN" local="$PROJECT_DIR$/../../fuwuqidaima" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="dongzx@10.7.39.225:22 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/MSDHGCN" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>

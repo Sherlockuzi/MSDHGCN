@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="08b75032-35b7-43da-870a-e1827d366f51" name="dongzx@10.7.39.225:22 password">
+        <fileTransfer rootFolder="/home/dongzx" accessType="SFTP" host="10.7.39.225" port="22" sshConfigId="7f6b21ae-f432-454a-8f00-b24e94654db6" sshConfig="dongzx@10.7.39.225:22 password">
+          <advancedOptions>
+            <advancedOptions controlEncoding="UTF-8" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
